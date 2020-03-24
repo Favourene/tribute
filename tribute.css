@@ -1,0 +1,44 @@
+body{ 
+    background-image:linear-gradient(rgba(0,0,0,0.5),rgba(0,0,0,0.5)), url(1.jpg);
+    background-size: cover;
+    background-position: center;
+    text-align: center;
+    color: white;
+}
+img, .img1{
+    border: 1px solid #ddd;
+    border-radius: 4px;
+    padding: 5px;
+    width: 150px;
+    max-width: 100%;
+}
+ul{
+text-align: left;
+list-style-type: circle;
+line-height: 30px;
+margin-top: 0;
+}
+a{
+    background-color: rgb(11, 25, 87);
+    color: rgb(248, 246, 246);
+}
+
+.hip{
+margin-bottom: 0;
+font-size: 30px;
+
+}
+.truth{
+    margin-bottom: 40px;
+}
+.parent{
+    display: flex;
+    flex-wrap: wrap;
+}
+#img2{
+    width: 90px;
+    height: 90px;
+}
+.dell{
+    padding-right: 40px;
+}
